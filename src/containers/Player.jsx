@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../dist/style.css';
+import '../assets/style.css';
 import Search from '../components/Search';
 import VideoFrame from '../components/VideoFrame'
 import VideosContainer from '../components/VideosContainer';
