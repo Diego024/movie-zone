@@ -1,5 +1,5 @@
 import React from 'react'
-import icon from '../../dist/icon.png'
+import icon from '../assets/statics/icon.png'
 
 const Icon = () => {
     return (
