@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react';
-import '../../dist/style.css';
+import '../assets/style.css';
 // REDUX
 import { connect } from 'react-redux';
 import {getData} from '../actions'
