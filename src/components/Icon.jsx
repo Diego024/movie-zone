@@ -6,7 +6,7 @@ const Icon = () => {
         <div className="flex flex-row items-center p-3 py-5 pl-12 w-1/4 ">
             <div>
                 <a href="/">
-                    <img className="h-14 w-14  mx-2 lg:block md:hidden" src={icon} alt="Soccer Icon" />
+                    <img className="h-14 w-14 mx-2 lg:block hidden" src={icon} alt="Soccer Icon" />
                 </a>
             </div>
             <div>

@@ -5,7 +5,7 @@ import searchIcon from '../assets/statics/search-icon.png'
 const Search = () => {
     return(
         <>
-            <div className="bg-gray-800 flex flex-row items-center">
+            <div className="bg-gray-800 flex flex-col sm:flex-row items-center">
                 <Icon/>
                 <div className="flex flex-row items-center w-3/4 rounded ml-28">
                     <input className="h-10 pl-3 w-2/4 outline-none bg-gray-700 border border-gray-600 border-r-0 text-white" type="text" name="search" id="search"/>
